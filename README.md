@@ -8,7 +8,7 @@ I chose Nest.js because it provides multiples solutions for modularity, security
 This project does not use external services nor databases. All you need to do to use this project is : 
 1. Clone the project
 ```bash
-git clone https://github.com/FelixArcelin/Port-And-Adapters-NestJS.git
+git clone https://github.com/FelixArcelin/HexagonalArchitectureSandBox.git
 ```
 2. Intall dependencies
 ```bash

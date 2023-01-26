@@ -1,0 +1,1 @@
+export type Status = "Active" | "Split-Up" | "Unknown";
